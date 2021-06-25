@@ -1,0 +1,52 @@
+span {
+    padding: 30px;
+    margin: 10px;
+    float: left;
+    background-color: #1FF4F4;
+    transition: 0.2s ease-in-out;
+}
+
+span:hover {
+    background-color: #9EFAFA;
+    transition: 0.2s ease-in-out;
+}
+
+span:active {
+    background-color: #09C3C3;
+    transition: 0.2s ease-in-out;
+}
+
+#mm {
+    padding: 30px;
+    margin: 10px;
+    float: left;
+    background-color: #FF6978;
+}
+
+#mm:hover {
+    background-color: #FFADB6;
+}
+
+#mm:active {
+    background-color: #FF1F35;
+}
+
+#lu {
+    border-top-left-radius: 20%;
+}
+
+#ru {
+    border-top-right-radius: 20%;
+}
+
+#ld {
+    border-bottom-left-radius: 20%;
+}
+
+#rd {
+    border-bottom-right-radius: 20%;
+}
+
+.ctl {
+    clear: both;
+}
